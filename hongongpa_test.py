@@ -7,3 +7,4 @@ print(a)
 print("I hate git")
 
 
+print("study")
