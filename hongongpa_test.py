@@ -4,4 +4,4 @@ a="ttttest"
 print(a)
 
 
-pritn("I hate git")
+print("I hate git")
